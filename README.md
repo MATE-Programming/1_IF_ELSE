@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logos/main/lab_1.svg?raw=true)
+![alt MATE Programming Lab] (https://github.com/MATE-Programming/Lab_logos/main/lab_1.svg?raw=true)
 # Практическое задание на тему Логические Операторы
 
 #### 1. Пользователь вводит порядковый номер пальца, программа выводит название пальца.
